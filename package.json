@@ -9,10 +9,11 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test:unit": "vitest",
-    "test:coverage":"vitest run --coverage"
+    "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.0",
+    "axios": "^1.8.4",
     "happy-dom": "^17.4.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
